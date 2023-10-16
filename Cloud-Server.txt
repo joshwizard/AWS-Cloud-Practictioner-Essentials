@@ -1,0 +1,25 @@
+Cloud-Server
+
+In computing, a client can be a web browser or desktop application that a person
+interacts with to make requests to computer servers. 
+
+A server can be services, such as Amazon Elastic Compute Cloud (Amazon EC2) - 
+a type of virtual server.
+
+Cloud Computing 
+Is the on-demand delivery of IT resources over the internet with pay-as-you-go 
+pricing.
+
+Deployment models for cloud computing
+- Cloud based
+- Op-premises
+- Hybrid
+
+Benefits of cloud computing
+- Trade upfront expense for variable expense
+- Stop spending money to run and maintain data centers
+- Stop guessing capacity
+- Benefit from massive economies of scale
+- Increase speed and agility
+- Go global in minutes
+
