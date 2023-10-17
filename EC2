@@ -1,0 +1,27 @@
+EC2
+
+Elastic Compute Cloud
+
+- Is a part of Amazon cloud computing platform, that allows users to rent virtual 
+computers on which to run their own computer applications.
+
+Use Cases
+- Run cloud-native and enterprise applications
+- Scale for HPC applications
+- Develop for Apple platforms
+- Train and deploy ML applications
+
+How Amazon EC2 works
+
+1. Launch
+- Launch an instance by selecting a template with basic config like OS, application
+server or applications, instance type.
+
+2. Connect
+- Connect to the instance
+
+3. Use
+- After connecting, you can begin using it by running commands to install software,
+add storage, copy and organize files.
+
+
